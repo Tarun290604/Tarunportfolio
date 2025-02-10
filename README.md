@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and experiences as a developer.
 
 ## 📌 Live Demo
-Check out my portfolio live: [Tarun's Portfolio]([https://tarunportfolio-292004.vercel.app/]) 
+Check out my portfolio live: [Tarun's Portfolio]((https://tarunportfolio-292004.vercel.app/)) 
 
 ## 📂 Project Structure
 ```
