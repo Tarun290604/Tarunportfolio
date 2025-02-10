@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and experiences as a developer.
 
 ## 📌 Live Demo
-Check out my portfolio live: [Tarun's Portfolio](https://your-portfolio-link.com) *(Replace with actual link if available)*
+Check out my portfolio live: [Tarun's Portfolio]([https://tarunportfolio-292004.vercel.app/]) 
 
 ## 📂 Project Structure
 ```
@@ -55,16 +55,12 @@ Make sure you have Node.js installed on your system.
 4. Start the development server:
    ```sh
    npm start
-   ```
-
-## 📸 Screenshots *(Add screenshots if available)*
-![Portfolio Screenshot](https://your-screenshot-link.com) *(Replace with actual screenshot URL)*
+   ```\
 
 ## 📬 Contact Me
-- **Portfolio:** [YourPortfolioLink.com](https://your-portfolio-link.com)
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Portfolio:** [YourPortfolioLink.com]([https://tarunportfolio-292004.vercel.app/])
+- **Email:** tarunk2906@gmail.com
+- **LinkedIn:** [Your LinkedIn]([https://www.linkedin.com/in/tarunkumar-k-703931231/])
 
 ---
 💡 *Feel free to fork and modify this portfolio to create your own!* 🚀
