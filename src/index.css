@@ -6,3 +6,7 @@
 :root {
   font: "Inter" sans-serif;
 }
+
+.navbar {
+  backdrop-filter: blur(8px); /* Adds a blur effect */
+}
